@@ -4,7 +4,7 @@
 ## Período: Febrero – Julio 2026 | Estado: ACTUALIZADO (14/07/2026)
 **Estado del Informe:** 🔴 ALTO RIESGO - ACTUALIZACIÓN CRÍTICA
 **Fuentes:** Plataforma Andrómeda (canales de Telegram, sitios de noticias, foros, leak sites)  
-**Confidencialidad:** TLP:AMBER  
+**Confidencialidad:** TLP: CTI PÚBLICO
 **Propósito:** Este informe es de carácter público y tiene fines educativos y de concienciación sobre ciberseguridad.
 
 "No todas las muertes son vanas. No todas las batallas se ganan con armas.
