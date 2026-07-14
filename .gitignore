@@ -13,3 +13,7 @@ Thumbs.db
 # Backup
 *.bak
 *.old
+
+# Personal
+*.env
+*.local
