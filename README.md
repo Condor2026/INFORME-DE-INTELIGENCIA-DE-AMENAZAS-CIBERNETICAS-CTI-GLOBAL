@@ -28,12 +28,18 @@ Leer este dossier escuchando esta musica : In the House, In a Heartbeat - John M
 
 El análisis de la información recopilada entre febrero y julio de 2026 revela una intensa actividad cibernética global, impulsada principalmente por grupos hacktivistas pro‑rusos que operan en el contexto de la guerra en Ucrania. Estos actores han lanzado campañas sostenidas de DDoS y acceso no autorizado a infraestructura crítica (energía, agua, transporte, agricultura) contra países que apoyan a Ucrania, especialmente Reino Unido, Polonia, Dinamarca y Corea del Sur. Paralelamente, grupos de ransomware como ShinyHunters han llevado a cabo filtraciones de datos de alto perfil, afectando a empresas como ADT, Amtrak y Rockstar Games. También se observa actividad de actores estatales como APT28 (Rusia) y Lazarus (Corea del Norte) en campañas de espionaje y robo de criptomonedas. La credibilidad de las reclamaciones varía: los incidentes confirmados por las víctimas tienen alta confianza, mientras que los ataques reivindicados por hacktivistas muestran una confianza media debido a la falta de verificaciones independientes.
 
-
-[![TLP:AMBER](https://img.shields.io/badge/TLP-AMBER-orange)](https://www.first.org/tlp/)
-[![Estado: Activo](https://img.shields.io/badge/Estado-Activo-brightgreen)]()
-[![Fuentes: Andrómeda](https://img.shields.io/badge/Fuentes-Andrómeda-blueviolet)]()
-
----
+[![Clasificación: PÚBLICO](https://img.shields.io/badge/Clasificación-PÚBLICO-brightgreen)](https://github.com)
+[![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success)](https://github.com)
+[![Período: Feb-Abr 2026](https://img.shields.io/badge/Período-Feb_Abr_2026-blue)](https://github.com)
+[![Idioma: Español](https://img.shields.io/badge/Idioma-Español-red)](https://github.com)
+[![TLP: CLEAR](https://img.shields.io/badge/TLP-CLEAR-lightgrey)](https://www.first.org/tlp/)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-Mapeado-orange)](https://attack.mitre.org/)
+[![Sector: Infraestructura Crítica](https://img.shields.io/badge/Sector-Infraestructura_Crítica-purple)](https://github.com)
+[![Amenazas: APT28, Lazarus, Hacktivistas](https://img.shields.io/badge/Amenazas-APT28_Lazarus_Hacktivistas-yellow)](https://github.com)
+[![Técnicas: DDoS, Ransomware, SCADA](https://img.shields.io/badge/Técnicas-DDoS_Ransomware_SCADA-ff69b4)](https://github.com)
+[![Confianza: Media-Alta](https://img.shields.io/badge/Confianza-Media_Alta-lightblue)](https://github.com)
+[![IOCs: IPs, Dominios, Telegram](https://img.shields.io/badge/IOCs-IPs_Dominios_Telegram-9cf)](https://github.com)
+[![Recomendaciones: Incluidas](https://img.shields.io/badge/Recomendaciones-Incluidas-ffa500)](https://github.com)
 
 ```
 "El que controla el ciberespacio, controla el mundo. Y yo he visto los planos."
