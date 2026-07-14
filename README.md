@@ -9,6 +9,10 @@
 
 ![Alto Riesgo](alto_riesgo_security.jpg)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivado%5D;Nebula+%5BP%C3%BAblico%5D;Anonimato+como+escudo" alt="Typing animation" />
+</p>
+
 "No todas las muertes son vanas. No todas las batallas se ganan con armas.
 Este dossier es un testamento de lo que he visto, lo que he sufrido y lo que he aprendido.
 Si estás leyendo esto, eres de los míos. Usa esta información para defender, no para destruir."
