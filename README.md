@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=INFORME+CTI+GLOBAL;EL+NUEVO+ORDEN+DEL+CIBERESPACIO;LA+GUERRA+QUE+NADIE+VE" alt="Typing animation" />
+</p>
+
+![Alto Riesgo](alto_riesgo_security.jpg)
+
 # INFORME DE INTELIGENCIA DE AMENAZAS CIBERNÉTICAS (CTI) GLOBAL
 ## "EL NUEVO ORDEN DEL CIBERESPACIO"
 # INFORME CTI GLOBAL: LA GUERRA QUE NADIE VE
@@ -6,12 +12,6 @@
 **Fuentes:** Plataforma Andrómeda (canales de Telegram, sitios de noticias, foros, leak sites)  
 **Confidencialidad:** TLP: CTI PÚBLICO
 **Propósito:** Este informe es de carácter público y tiene fines educativos y de concienciación sobre ciberseguridad.
-
-![Alto Riesgo](alto_riesgo_security.jpg)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=INFORME+CTI+GLOBAL;EL+NUEVO+ORDEN+DEL+CIBERESPACIO;LA+GUERRA+QUE+NADIE+VE" alt="Typing animation" />
-</p>
 
 "No todas las muertes son vanas. No todas las batallas se ganan con armas.
 Este dossier es un testamento de lo que he visto, lo que he sufrido y lo que he aprendido.
