@@ -10,7 +10,7 @@
 ![Alto Riesgo](alto_riesgo_security.jpg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=INFORME+DE+INTELIGENCIA+DE+AMENAZAS+CIBERN%C3%89TICAS+(CTI)+GLOBAL;%22EL+NUEVO+ORDEN+DEL+CIBERESPACIO%22;INFORME+CTI+GLOBAL:+LA+GUERRA+QUE+NADIE+VE" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=INFORME+DE+INTELIGENCIA+DE+AMENAZAS+CIBERNETICAS+CTI+GLOBAL;EL+NUEVO+ORDEN+DEL+CIBERESPACIO;INFORME+CTI+GLOBAL+LA+GUERRA+QUE+NADIE+VE" alt="Typing animation" />
 </p>
 
 "No todas las muertes son vanas. No todas las batallas se ganan con armas.
