@@ -7,11 +7,11 @@
 # INFORME DE INTELIGENCIA DE AMENAZAS CIBERNÉTICAS (CTI) GLOBAL
 ## "EL NUEVO ORDEN DEL CIBERESPACIO"
 # INFORME CTI GLOBAL: LA GUERRA QUE NADIE VE
-## Período: Febrero – Julio 2026 | Estado: ACTUALIZADO (14/07/2026)
-**Estado del Informe:** 🔴 ALTO RIESGO - ACTUALIZACIÓN CRÍTICA
-**Fuentes:** Plataforma Andrómeda (canales de Telegram, sitios de noticias, foros, leak sites)  
-**Confidencialidad:** CTI PÚBLICO
-**Propósito:** Este informe es de carácter público y tiene fines educativos y de concienciación sobre ciberseguridad.
+- **Período: Febrero:**  Julio 2026 | Estado: ACTUALIZADO (14/07/2026)
+- **Estado del Informe:** 🔴 ALTO RIESGO - ACTUALIZACIÓN CRÍTICA
+- **Fuentes:** Plataforma Andrómeda (canales de Telegram, sitios de noticias, foros, leak sites)  
+- **Confidencialidad:** CTI PÚBLICO
+- **Propósito:** Este informe es de carácter público y tiene fines educativos y de concienciación sobre ciberseguridad.
 
 "No todas las muertes son vanas. No todas las batallas se ganan con armas.
 Este dossier es un testamento de lo que he visto, lo que he sufrido y lo que he aprendido.
